@@ -7,7 +7,7 @@ var options = {
   height: "100%",
   channel: "N01SEglobal",
   autoplay: true,
-  parent: ["aural-podcast.github.io"],
+  parent: ["aural-n01se.github.io"],
   controls: true,
   muted: true,
 };
